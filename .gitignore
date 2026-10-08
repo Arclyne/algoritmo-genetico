@@ -1,0 +1,12 @@
+genetic_algorithm
+output/
+*.o
+*.out
+*.exe
+*.dSYM/
+
+.DS_Store
+.vscode/
+.idea/
+
+~$*.docx
